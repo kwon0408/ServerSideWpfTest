@@ -1,0 +1,10 @@
+C:\Users\inthetech\source\repos\InternalDid\ServerSideWpfTestRazorPages\obj\Debug\net7.0-windows\ServerSideWpfTestRazorPages.csproj.AssemblyReference.cache
+C:\Users\inthetech\source\repos\InternalDid\ServerSideWpfTestRazorPages\obj\Debug\net7.0-windows\Wpf\MyUserControl.g.cs
+C:\Users\inthetech\source\repos\InternalDid\ServerSideWpfTestRazorPages\obj\Debug\net7.0-windows\ServerSideWpfTestRazorPages_Content.g.cs
+C:\Users\inthetech\source\repos\InternalDid\ServerSideWpfTestRazorPages\obj\Debug\net7.0-windows\ServerSideWpfTestRazorPages_MarkupCompile.cache
+C:\Users\inthetech\source\repos\InternalDid\ServerSideWpfTestRazorPages\obj\Debug\net7.0-windows\ServerSideWpfTestRazorPages_MarkupCompile.lref
+C:\Users\inthetech\source\repos\ServerSideWpfTest\ServerSideWpfTestRazorPages\obj\Debug\net7.0-windows\ServerSideWpfTestRazorPages.csproj.AssemblyReference.cache
+C:\Users\inthetech\source\repos\ServerSideWpfTest\ServerSideWpfTestRazorPages\obj\Debug\net7.0-windows\Wpf\MyUserControl.g.cs
+C:\Users\inthetech\source\repos\ServerSideWpfTest\ServerSideWpfTestRazorPages\obj\Debug\net7.0-windows\ServerSideWpfTestRazorPages_Content.g.cs
+C:\Users\inthetech\source\repos\ServerSideWpfTest\ServerSideWpfTestRazorPages\obj\Debug\net7.0-windows\ServerSideWpfTestRazorPages_MarkupCompile.cache
+C:\Users\inthetech\source\repos\ServerSideWpfTest\ServerSideWpfTestRazorPages\obj\Debug\net7.0-windows\ServerSideWpfTestRazorPages_MarkupCompile.lref
